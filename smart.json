@@ -1,0 +1,8 @@
+{
+    "name": "animate-css",
+    "description": "Animate.css packaged for meteor",
+    "homepage": "https://github.com/nate-strauser/meteor-animate-css",
+    "author": "Nate Strauser",
+    "version": "0.1.0",
+    "git": "https://github.com/nate-strauser/meteor-animate-css.git"
+}
