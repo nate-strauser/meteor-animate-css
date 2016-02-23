@@ -1,7 +1,7 @@
 Package.describe({
     name: "natestrauser:animate-css",
     summary: "Animate.css packaged for meteor",
-    version: "3.4.0",
+    version: "3.5.1",
     git: "https://github.com/nate-strauser/meteor-animate-css.git"
 });
 
